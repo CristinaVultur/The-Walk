@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1556478811 source:d:\info\faculta\poo\poo p2\main.cpp
+	<iostream>
+	"map.h"
+	"robot.h"
+	"simulare.h"
+	"items.h"
+
+1556210052 d:\info\faculta\poo\poo p2\map.h
+	<iostream>
+
+1556479004 d:\info\faculta\poo\poo p2\robot.h
+	"map.h"
+	"items.h"
+
+1556214247 d:\info\faculta\poo\poo p2\simulare.h
+	"robot.h"
+	"map.h"
+	"items.h"
+	<iostream>
+
+1556459397 d:\info\faculta\poo\poo p2\items.h
+	"robot.h"
+	"map.h"
+
+1556480555 source:d:\info\faculta\poo\poo p2\items.cpp
+	<iostream>
+	"map.h"
+	"robot.h"
+	"items.h"
+
+1556455681 source:d:\info\faculta\poo\poo p2\map.cpp
+	<iostream>
+	"map.h"
+
+1556480853 source:d:\info\faculta\poo\poo p2\robot.cpp
+	<iostream>
+	"map.h"
+	"items.h"
+	<string.h>
+	"robot.h"
+
+1556480311 source:d:\info\faculta\poo\poo p2\simulare.cpp
+	"simulare.h"
+	"robot.h"
+	"items.h"
+	"map.h"
+	<iostream>
+	<cstdlib>
+
